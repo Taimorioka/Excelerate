@@ -1,3 +1,0 @@
-name = "Panel and hvPlot"
-description = "Leverage hvPlot interactive feature and extending it with Panel."
-packages = ["bokeh==3.6.3", "panel==1.7.5", "markdown-it-py", "numpy", "pandas", "hvplot", "pyodide-http"]
